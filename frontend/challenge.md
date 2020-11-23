@@ -25,7 +25,7 @@ Não deixe de fazer a tarefa, pois conhecimento técnico é um dos pilares da Mo
 
 Num sistema XPTO, a Tabela de Permissões é uma funcionalidade que define as permissões internas dos usuários.
 
-Na tabela abaixo, temos uma organização de permissão em 6 colunas. Sendo elas: Coluna Vazia, Ver Listagem, Ver Detalhes, Criar, Editar e Deletar.
+Na tabela abaixo, temos uma organização de permissão em 6 colunas. Sendo elas: `Coluna Vazia`, `Ver Listagem`, `Ver Detalhes`, `Criar`, `Editar` e `Deletar`.
 Obs: Análise, Contas, Customização e Financeiro representam os módulos (estão em cinza mais claro) e em branco são os submódulos.
 
 ![Mobix](./tabela.png)
