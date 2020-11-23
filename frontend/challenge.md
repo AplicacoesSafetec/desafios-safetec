@@ -1,41 +1,47 @@
 # Desafio Front end
 
-O desafio tem como objetivo avaliar a pessoa candidata nas experiências: Criação de layouts, lógica aplicada e padrões no uso do React, tests com cypress. Vale lembrar que iremos avaliar tudo, mas não deixe de fazer a tarefa, pois conhecimento técnico é um dos pilares da Mobix e sabemos que conhecimento pode se adquirir.
+O desafio tem como objetivo avaliar a pessoa candidata nas experiências: 
+* Criação de layouts
+* Padrões no uso do React.Js
+* Boas práticas de programação e organização de projeto
 
-### Requisitos
+Vale lembrar que iremos avaliar tudo. 
 
-#### Obrigatório
-- React hooks
-- Test com Cypress
+Não deixe de fazer a tarefa, pois conhecimento técnico é um dos pilares da Mobix e sabemos que conhecimento se adquire com o tempo.
 
-#### Opcionais
+## Requisitos
+
+### Obrigatório
+- React Hooks
+- Testes com Cypress
+
+### Opcionais
 - Uso de framework de components: Ant Design, Bootstrap, Material UI
 - Redux, Redux Saga
 - Styled-components
 - TypeScript
 
-## Introdução
+### Desafio
 
-A Tabela de Permissões é uma funcionalidade para definir permissões internas do usuário que usa o sistema XPTO.
+Num sistema XPTO, a Tabela de Permissões é uma funcionalidade que define as permissões internas dos usuários.
 
-## Interações com o componente
+Na tabela abaixo, temos uma organização de permissão em 6 colunas. Sendo elas: `Coluna Vazia`, `Ver Listagem`, `Ver Detalhes`, `Criar`, `Editar` e `Deletar`.
+Obs: Análise, Contas, Customização e Financeiro representam os módulos (estão em cinza mais claro) e em branco são os submódulos.
 
 ![Mobix](./tabela.png)
 
-Na tabela, temos 6 colunas sendo elas: Coluna vazia, Ver listagem, Ver detalhes, Criar, Editar e Deletar.
+* Na primeira linha da coluna vazia temos o `Todos` que representa a interação com todos os módulos. 
+* Ao clicar no checkbox de `Ver Listagem` do item `Todos`, deve-se habilitar/desabilitar todos os checkbox da coluna de `Ver Listagem`. 
+* Essa interação também deve acontecer para `Ver Detalhes`, `Criar`, `Editar` e `Deletar`.
 
-Obs: Analise, Contas, Customização e Financeiro representam os módulos (estão em cinza mais claro) e em branco são os submódulos.
+* Na segunda linha da coluna vazia temos a `Análise`, que representa um módulo e ao clicar no checkbox do `Ver Listagem`, deve habilitar/desabilitar o próprio checkbox e os abaixo que representam os submódulos `Análise de Contas` e `Análise de Transações`). 
+* Essa interação também deve ser seguido para `Ver Detalhes`, `Criar`, `Editar` e `Deletar`. E também deve ser seguido para os outros módulos.
 
-1 - Na primeira linha da Coluna vazia é o Todos que representa a interação com todos os módulos abaixo (Analise, Contas, Customização e Financeiro). Ao clicar no checkbox de Ver listagem do item Todos, deve habilitar/desabilitar todos os checkbox abaixo (Analise, Contas, Customização e Financeiro) de ver listagem. Essa interação também deve ser seguida para Ver detalhes, Criar, Editar e Deletar.
+* Na terceira linha da coluna vazia temos a `Analise de Contas`, que representa um submódulo e ao clicar no checkbox do `Ver Listagem`, deve-se habilitar/desabilitar o próprio checkbox e apenas isso. 
+* Essa interação também deve ser seguido para `Ver Detalhes`, `Criar`, `Editar` e `Deletar`. E também deve ser seguido para os outros submódulos.
 
-2 - Na segunda linha da Coluna vazia é a Análise, esse item representa um módulo e ao clicar no checkbox do Ver listagem, deve habilitar/desabilitar o próprio checkbox e os abaixo que representam os submódulos (Analise de contas e Analise de transações). Essa interação também deve ser seguido para Ver detalhes, Criar, Editar e Deletar. E também deve ser seguido para os outros módulos.
+* É possível abrir e fechar a listagem de submódulos ao clicar na seta apontada para baixo. Ela indica para qual direção o componente terá o comportamento (abertura apontando para cima, fechamento apontando para baixo).
 
-3 - Na terceira linha da Coluna vazia é a Analise de contas, esse item representa um submódulo e ao clicar no checkbox do Ver listagem, deve habilitar/desabilitar o próprio checkbox e apenas isso. Essa interação também deve ser seguido para Ver detalhes, Criar, Editar e Deletar. E também deve ser seguido para os outros submódulos.
-
-4 - É possível abrir e fechar a listagem de submódulos ao clicar na seta apontada para baixo. Ela indica para qual direção o componente terá o comportamento (abertura apontando para cima, fechamento apontando para baixo).
-
-5 - Ao clicar no botão de cadastrar, deve aparecer no console log todas as permissões dentro de um array, ex: ["permissão1", "permissão2"] e etc.
-
-
+* Ao clicar no botão de cadastrar, deve aparecer no console log todas as permissões dentro de um array, ex: ["permissão1", "permissão2"] e etc.
 
 Link para o Figma https://www.figma.com/file/bLdWjL7pxSdWde02icnhmX/Tabela-de-Permiss%C3%B5es?node-id=1%3A131
