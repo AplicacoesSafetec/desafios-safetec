@@ -36,4 +36,6 @@ Obs: Analise, Contas, Customização e Financeiro representam os módulos (estã
 
 5 - Ao clicar no botão de cadastrar, deve aparecer no console log todas as permissões dentro de um array, ex: ["permissão1", "permissão2"] e etc.
 
+
+
 Link para o Figma https://www.figma.com/file/bLdWjL7pxSdWde02icnhmX/Tabela-de-Permiss%C3%B5es?node-id=1%3A131
