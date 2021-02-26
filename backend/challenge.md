@@ -12,7 +12,7 @@ Criar uma API em NodeJS que:
 - [ ] A capa do livro deverá ser apresentada no formato base64.
 - [ ] Crie um repositório no Github para inserir o seu código.
 - [ ] Envie o link do repositório e quaisquer outras informações necessárias para rh@mobixtec.com
-- [ ] Caso você não entre em contato conosco pelo nosso processo seletivo, envie o desafio para nós via rh@mobixtec.com e nos informe em quanto tempo você conseguiu realizá-lo (sugestão: use https://clockify.me/ ou para registrar suas atividades).
+- [ ] Caso você não entre em contato conosco pelo nosso processo seletivo, envie o desafio para nós via rh@mobixtec.com e nos informe em quanto tempo você conseguiu realizá-lo (sugestão: use https://clockify.me/ ou similares para registrar seu tempo).
 
 ## Extras
 - [ ] Implementar testes unitários usando Jest
