@@ -4,6 +4,9 @@
 - [ ] Deverá ser enviado via JSON o número da sequência do livro que se quer detalhar.
 - [ ] Não será permitido inserir informações apenas com o link de uma API. Deve-se inserir todas as informações possíveis.
 - [ ] A capa do livro deverá ser apresentada no formato de base64.
+- [ ] Crie um repositório para inserir o seu código.
+- [ ] Envie o link do repositório e quaisquer outras informações para rh@mobixtec.com
+- [ ] Caso você não entre em contato conosco pelo nosso processo seletivo, informe em quanto tempo você conseguiu realizar o desafio (sugestão: use https://clockify.me/ para registrar suas atividades).
 
 # Extras
 - [ ] Implementar testes unitários usando Jest
