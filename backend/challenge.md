@@ -13,5 +13,5 @@
 - [ ] Se até aqui você se divertiu muito, insira na imagem do livro o nome dos seus personagens principais no formato de marca d'água
 - [ ] Se você não ficou satisfeito com o desafio, insira também o link da Amazon para que possamos comprar os livros :-D
 
-[]: GOT API -> https://anapioficeandfire.com/api/books/
-[]: Capas -> https://openlibrary.org/dev/docs/api/covers
+- [ ] GOT API -> https://anapioficeandfire.com/api/books/
+- [ ] Capas -> https://openlibrary.org/dev/docs/api/covers
