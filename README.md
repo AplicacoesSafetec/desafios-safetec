@@ -1,4 +1,4 @@
-# ![Mobix](./img/logo.png) Developer Jobs
+# ![Mobix](./logo.png) Developer Jobs
 
 ## What we do?
 - **Enterprise Solutions**. We help big enterprises solve their legacy problems and deliver high quality
