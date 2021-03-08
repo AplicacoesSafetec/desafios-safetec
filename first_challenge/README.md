@@ -35,9 +35,9 @@ g2
 ...
 ```
 
-### O que seria legal de ver:
+### Extras:
 - Inserir a imagem do tabuleiro no console com a posição específica do cavalo.
 - Uma animação do cavalo se movimentando no tabuleiro, substituindo com um X na posição que ele já foi percorrida.
 
 ### Como você deve nos enviar o desafio?
-- Envie o link do PR do Github para a mesma thread de email que você enviou seu currículo.
+- Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código para a mesma thread de email que você enviou seu currículo.
