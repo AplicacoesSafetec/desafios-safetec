@@ -15,7 +15,7 @@ Este desafio consiste em:
 
 - O programa deve receber, via linha de comando, uma casa em notação algébrica de xadrez que será a posição inicial do cavalo.
 
-- O programa deverá retornar uma seguência de posições em notação algébrica de xadrez indicando o caminho percorrido pelo cavalo a fim de preencher todo o tabuleiro sem faltar nenhuma casa e sem repetir nenhuma.
+- O programa deverá retornar uma seguência de posições em notação algébrica de xadrez indicando o caminho percorrido pelo cavalo a fim de preencher todo o tabuleiro, garantindo que ele não repita nenhuma posição.
 
 ### Exemplo 
 
