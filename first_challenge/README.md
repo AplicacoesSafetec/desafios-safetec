@@ -41,3 +41,11 @@ g2
 
 ### Como você deve nos enviar o desafio?
 - Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código para a mesma thread de email que você enviou seu currículo.
+- Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
+
+### O que você vai desenvolver com este desafio?
+- Entendimento e aplição em problemas de contexto
+- Levantamento de hipóteses e testes das soluções
+- Conhecimento em lógica de programação
+- Manipulação de tipos de dados (listas, condicionais, matrizes, laços, input/output, etc...)
+- Detalhamento de atividades e feedbacks
