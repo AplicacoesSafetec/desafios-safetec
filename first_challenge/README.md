@@ -11,7 +11,7 @@ O cavalo é colocado no tabuleiro vazio e, seguindo as regras do jogo, precisa p
 
 Este desafio consiste em:
 
-- Criar um programa que encontre uma solução para o passeio do cavalo.
+- Criar um programa em Node.Js que encontre uma solução para o passeio do cavalo.
 
 - O programa deve receber, via linha de comando, uma casa em notação algébrica de xadrez que será a posição inicial do cavalo.
 
