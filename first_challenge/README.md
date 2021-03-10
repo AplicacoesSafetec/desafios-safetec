@@ -40,6 +40,7 @@ g2
 - Uma animação do cavalo se movimentando no tabuleiro, substituindo com um X na posição que ele já foi percorrida.
 
 ### Como você deve nos enviar o desafio?
+- É de caráter obrigatório o registro de horas para análise (você pode usar softwares como https://getharvest.com, https://clockify.me/, etc).
 - Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código para a mesma thread de email que você enviou seu currículo.
 - Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
 
