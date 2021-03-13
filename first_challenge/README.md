@@ -41,11 +41,12 @@ g2
 
 ### Como você deve nos enviar o desafio?
 - É de caráter obrigatório o registro de horas para análise (você pode usar softwares como https://getharvest.com, https://clockify.me/, etc).
-- Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código para a mesma thread de email que você enviou seu currículo.
+- Você deve enviar o desafio para `dev-team@mobixtec.com` com título `Processo Seletivo Mobix - Desafio de Lógica - SeuNome`.
+- Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código.
 - Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
 
 ### O que você vai desenvolver com este desafio?
-- Entendimento e aplição em problemas de contexto
+- Entendimento e aplicação em problemas de contexto
 - Levantamento de hipóteses e testes das soluções
 - Conhecimento em lógica de programação
 - Manipulação de tipos de dados (listas, condicionais, matrizes, laços, input/output, etc...)
