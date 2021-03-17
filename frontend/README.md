@@ -45,3 +45,9 @@ Obs: Análise, Contas, Customização e Financeiro representam os módulos (est�
 * Ao clicar no botão de cadastrar, deve aparecer no console log todas as permissões dentro de um array, ex: ["permissão1", "permissão2"] e etc.
 
 Link para o Figma https://www.figma.com/file/bLdWjL7pxSdWde02icnhmX/Tabela-de-Permiss%C3%B5es?node-id=1%3A131
+
+### Como você deve nos enviar o desafio?
+- É de caráter obrigatório o registro de horas para análise (você pode usar softwares como https://getharvest.com, https://clockify.me/, etc).
+- Você deve enviar o desafio para `dev-team@mobixtec.com` com título `Processo Seletivo Mobix - Desafio Técnico - SeuNome`.
+- Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código.
+- Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
