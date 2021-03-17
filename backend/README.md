@@ -25,3 +25,10 @@ Criar uma API em NodeJS que:
 ## Informações
 - [ ] API -> https://anapioficeandfire.com/api/books/
 - [ ] Capas -> https://openlibrary.org/dev/docs/api/covers
+
+### Como você deve nos enviar o desafio?
+- É de caráter obrigatório o registro de horas para análise (você pode usar softwares como https://getharvest.com, https://clockify.me/, etc).
+- Você deve enviar o desafio para `dev-team@mobixtec.com` com título `Processo Seletivo Mobix - Desafio Técnico Backend - SeuNome`.
+- Utilize a plataforma www.Repl.it para programar a solução e enviar o link com o código.
+- Detalhe toda a sua experiência, informando os pontos de desafio que você achou mais legal.
+
