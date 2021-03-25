@@ -7,6 +7,7 @@ Criar uma API em NodeJS que:
 - [ ] Obtenha o detalhe de um ou mais personagens.
 - [ ] Obtenha todos os livros relacionados a um personagem.
 - [ ] Não será permitido inserir informações com URL. Deve-se inserir todas as informações possíveis.
+- [ ] As informações deverão ser inseridas num banco de dados em MongoDb.
 - [ ] A capa do livro deverá ser apresentada no formato base64.
 
 ## Extras
